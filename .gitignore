@@ -29,4 +29,5 @@ bin/
 .DS_Store
 
 ## Your config.properties
-src/config.properties
+config.properties
+/config.properties
